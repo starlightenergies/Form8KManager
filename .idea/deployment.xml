@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="cebu" uploadOnCheckin="77acc348-1739-4b9c-9d87-2705226a94c9" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="cebu" uploadOnCheckin="77acc348-1739-4b9c-9d87-2705226a94c9" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="cebu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
     <option name="myUploadOnCheckinName" value="cebu" />
+    <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
