@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="77acc348-1739-4b9c-9d87-2705226a94c9" name="cebu" url="http://form8k.vaultbear.com">
+        <fileTransfer rootFolder="/var/www/projects/Form8KManager" accessType="SFTP" host="cebu" port="22" sshConfigId="49f68fe4-7462-456f-a261-c9026f6385ed" sshConfig="james@cebu:22:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
