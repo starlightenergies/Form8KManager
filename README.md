@@ -27,30 +27,3 @@ can surely do better than our local news outlets.
 ### Outcome Targeted
 Better information leads to better decision-making. Derivations of this
 project will also show up later here and in Vaultbear.com and Reemotex.com.
-
-
-
-0 comments on commit 6cb4a90
-Lock conversation
-@starlightenergies
-Write   Preview
-
-
-
-Attach files by dragging & dropping, selecting or pasting them.
-Comment on this commit
-Unsubscribe
-You’re receiving notifications because you’re watching this repository.
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
