@@ -1,6 +1,6 @@
 # Form 8K Manager
 
-We all news the daily financial news is lame. Born to change this
+We all know news the daily financial news is lame. Born to change this
 the Form8KManager will capture, parse, analyze and make sense of
 and report on this event driven S.E.C. form.
 
