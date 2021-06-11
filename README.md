@@ -10,7 +10,7 @@ sense of events from the thousands of 8-K's filed annually.
 
 Given my background as an S.E.C. reporting manager for an NYSE listed
 bank in the past, including preparing many 8-K's, etc. then I
-can surely do better than our local news outlets.
+can surely do better than any news outlet. Just takes time...
 
 ## Status
 - Started: 2021-06-11
