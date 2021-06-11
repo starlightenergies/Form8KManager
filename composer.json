@@ -1,0 +1,15 @@
+{
+    "name": "james/form8k-manager",
+    "description": "Financial Manager Tool",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JamesD",
+            "email": "james@workinout.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^1.0"
+    }
+}
